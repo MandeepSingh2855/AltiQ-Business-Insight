@@ -5,6 +5,7 @@
 An interactive Power BI project designed to analyze AtliQ Hardwares' sales performance, financial trends, and business insights across regions, product segments, and fiscal periods. This dashboard supports leadership and stakeholders in making informed, data-driven decisions.
 
 **Live Dashboard**
+
 Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNDkwY2YxZWQtNzg4YS00Yzg5LTljZjYtODMxNGU0OTczODZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73) 
 
 **Dashboard Overview**
