@@ -24,9 +24,9 @@ Profitability Metrics – Analyze key financial indicators like Gross Margin %.
 
 **Features**
 
-Dynamic filters and slicers for region, product, and time
+- Dynamic filters and slicers for region, product, and time
 
-KPI cards for quick metric visibility
+- KPI cards for quick metric visibility
 
 Custom visuals for clarity and storytelling
 
