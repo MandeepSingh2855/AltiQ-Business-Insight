@@ -28,21 +28,21 @@ Profitability Metrics – Analyze key financial indicators like Gross Margin %.
 
 - KPI cards for quick metric visibility
 
-Custom visuals for clarity and storytelling
+- Custom visuals for clarity and storytelling
 
-Drill-down capabilities to explore granular insights
+- Drill-down capabilities to explore granular insights
 
 **Tools Used**
 
-Power BI Desktop
+- Power BI Desktop
 
-DAX (Data Analysis Expressions)
+- DAX (Data Analysis Expressions)
 
-Data Modelling
+- Data Modelling
 
-Power Query for data transformation
+- Power Query for data transformation
 
-Excel (as data source)
+- Excel (as data source)
 
 **Conclusion**
 
